@@ -10,3 +10,4 @@ header.style.border = 'solid 3px black';
 const element = document.querySelector('h2');
 element.style.fontWeight = 'bold';
 element.style.color = 'green';
+
